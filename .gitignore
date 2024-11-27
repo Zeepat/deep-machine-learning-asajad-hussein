@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+Data/dogs-vs-cats/
+Data/dogs-vs-cats-small/
+
 # Distribution / packaging
 .Python
 build/
